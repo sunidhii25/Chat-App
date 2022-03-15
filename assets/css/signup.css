@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+nav {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    height:100px !important;
+    font-size: 24px !important;
+    width:100vw !important;
+    padding:20px !important;
+    background-color: lightslategray;
+    color:black !important;
+    font-weight: bold;
+}
+a {
+    text-decoration: none !important;
+    color: black !important;
+}
+#left-nav{
+    font-size: 35px;
+}
+#right-nav {
+    display: flex;
+    margin-right: 60px;
+    width: 150px;
+    justify-content: space-between;
+}   
+#heading {
+    font-weight: 400;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 50px;
+}
+#signup-btn {
+    margin-top: 20px;
+    width: 120px;
+    background-color: black;
+    color:white;
+}
+.container
+{
+    background-color: lightgrey;
+    height:550px;
+    width:200px;
+    margin-top: 60px;
+    border: 3px solid black;
+    
+}
